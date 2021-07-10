@@ -1,1 +1,1 @@
-# Format for reporting a bug and creating a PR
+# Format for reporting a bug, to the community
