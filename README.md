@@ -13,12 +13,23 @@ That's why we have this community that will not only involve an active contribut
 
 ## Bug-files
 For all the Linux distributions used by our community, you'll find a detailed description of bugs, issues in separate files, for each distro listed below:
-Unbuntu OR Debian-based distros: Ubuntu. MD
-Fedora: Fedora. MD
-Arch: Arch. MD
+
+* **Unbuntu** OR Debian-based distros [![Ubuntu.MD](https://img.shields.io/badge/-Ubuntu.MD-brown)](#)
+* **Fedora** [![Fedora.MD](https://img.shields.io/badge/-Fedora.MD-blue)](#)
+* **Arch** [![Arch.MD](https://img.shields.io/badge/-Arch.MD-blue)](#)
+
 Due to such a large community of Linux users, there are multiple types of users. 
 There are users whose main goal is to claim for any given bug. 
 While there are users who cooperate for the bug to be solved.
 
+## Reporting bugs
+There has to be a spceific format in which bugs will be reported so, access the format:
+[![Reporing format](https://img.shields.io/badge/-Reporing_format-red)](https://github.com/RedocamaI/Bug-Hub-Fedora/blob/main/Bugs.md)
+
 ## Which class of user are you in?
 We have a place for both types of users. If you want to be any of them, just join our community.
+To report a bug, just fork this repo, clone it make changes, create a pull request.
+## Cloning this repository
+``` git clone https://github.com/RedocamaI/Bug-Hub-Fedora.git ```
+
+
