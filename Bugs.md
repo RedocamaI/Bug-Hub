@@ -5,7 +5,8 @@ Try your best to **stick to the format** and provide a sufficient and sensible d
 
 # Format
 ## Bug_name
-Write a sensible bug name, prefer the one you found on trusted wesites.
+Write a sensible bug name, prefer the one you found on  
+[![trusted wesites](https://img.shields.io/badge/-trusted_wesites-darkgreen)](https://github.com/RedocamaI/Bug-Hub/blob/main/README.md)
 
 ## Describe the bug
 Describe what the bug is all about. Also, describe how the bug has affected your workflow. Do mention all you know about the bug, even the smallest details matter, like:
@@ -14,20 +15,18 @@ Describe what the bug is all about. Also, describe how the bug has affected your
 
 ## How to get rid of this bug ?
 Describe all about the alternative solution, you used to get rid of the bug, or provide a link to where you found that solution. Links should **NOT** be provided in paragraphs OR a single line, it should be like this:
-  ### Example 
-   [![Use this badge](https://img.shields.io/badge/-Link1-violet)](#)
+
+   [![Use this badge](https://img.shields.io/badge/-Link1-darkblue)](#)
    
-   [![Use this badge](https://img.shields.io/badge/-Link2-violet)](#)
+   [![Use this badge](https://img.shields.io/badge/-Link2-darkblue)](#)
    
    And so on ...
    
    Just replace **#** with your link(you'll see **#** only in Edit_file view).
 
-## NOT included in the format
-### The trusted websites are:
+**You are also free to report a bug whose alternate solution is not available**, but do mention the links you have gone through in search for those solutions (in the above mentioned format), which must include the 
 
-  [![Ubuntu_Debian_based](https://img.shields.io/badge/-Ask_Ubuntu.com-brown)](https://askubuntu.com/)
-  
-  [![Fedora](https://img.shields.io/badge/-Bugzilla.Redhat.com-blue)](https://bugzilla.redhat.com/)
-  
-  [![Arch_linux](https://img.shields.io/badge/-Arch_linux.org-violet)](https://wiki.archlinux.org/)
+[![trusted wesites](https://img.shields.io/badge/-trusted_wesites-darkgreen)](https://github.com/RedocamaI/Bug-Hub/blob/main/README.md)
+
+## NOTE (NOT in the FORMAT)
+If you have **NOT** found an alternative to your bug or how it can be solved, your PR might take a bit longer to get merged, once we conform if it's there or not.
