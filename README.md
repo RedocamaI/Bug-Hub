@@ -26,6 +26,17 @@ While there are users who cooperate for the bug to be solved.
 There has to be a spceific format in which bugs will be reported so, access the format:
 [![Reporing format](https://img.shields.io/badge/-Reporing_format-red)](https://github.com/RedocamaI/Bug-Hub-Fedora/blob/main/Bugs.md)
 
+## Conforming
+Before reporting a **Bug** do confirm it from the ***Trusted Websites***. This is just a safety measure in case this bug has been ***solved***, we won't include it here.
+
+### The trusted websites are:
+
+  [![Ubuntu_Debian_based](https://img.shields.io/badge/-Ask_Ubuntu.com-brown)](https://askubuntu.com/)
+  
+  [![Fedora](https://img.shields.io/badge/-Bugzilla.Redhat.com-blue)](https://bugzilla.redhat.com/)
+  
+  [![Arch_linux](https://img.shields.io/badge/-Arch_linux.org-violet)](https://wiki.archlinux.org/)
+
 ## Which class of user are you in?
 We have a place for both types of users. If you want to be any of them, just join our community.
 To report a bug, just fork this repo, clone it make changes, create a pull request.
